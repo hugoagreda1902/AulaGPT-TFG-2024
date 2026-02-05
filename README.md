@@ -1,12 +1,4 @@
-  # AulaGPT — AI Assistant for Education
-
-An AI-powered assistant designed to support students and teachers by improving access to educational content, document management and interaction through natural language.
-
-AulaGPT combines a backend API with a web-based frontend to provide an interactive assistant focused on learning environments.
-
----
-
-## Overview
+# AulaGPT — AI Assistant for Education
 
 AulaGPT is a full-stack application built as a final degree project (TFG) that explores how artificial intelligence can be integrated into educational workflows.
 
