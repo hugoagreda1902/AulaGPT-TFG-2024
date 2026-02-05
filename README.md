@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 📚 AulaGPT
+# AulaGPT
 
 AulaGPT es un asistente inteligente para alumnos y profesores, diseñado para mejorar la experiencia educativa mediante el uso de IA.
 
@@ -67,6 +66,3 @@ Aula-GPT/
 ├── package-lock.json                           
 ├── README.md                                   
 └── requirements.txt                            
-=======
-# AulaGPT
->>>>>>> 50fb2c1e (Initial commit)
