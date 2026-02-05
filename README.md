@@ -57,56 +57,6 @@ Database / External Services
 
 ---
 
-## Project Structure
-
-Aula-GPT/
-├── aula-gpt-backend/
-│ ├── api/
-│ │ ├── google_drive/
-│ │ │ ├── credentials.json
-│ │ │ └── utils.py
-│ │ ├── migrations/
-│ │ ├── admin.py
-│ │ ├── models.py
-│ │ ├── serializers.py
-│ │ ├── urls.py
-│ │ └── views.py
-│ ├── aula_backend/
-│ │ ├── settings.py
-│ │ ├── urls.py
-│ │ ├── asgi.py
-│ │ └── wsgi.py
-│ ├── manage.py
-│ ├── requirements.txt
-│ └── .gitignore
-│
-├── aula-gpt-frontend/
-│ ├── public/
-│ │ └── index.html
-│ ├── src/
-│ │ ├── api/
-│ │ │ ├── axiosConfig.js
-│ │ │ └── dataService.js
-│ │ ├── components/
-│ │ │ ├── ChatIA.jsx
-│ │ │ ├── Home.jsx
-│ │ │ ├── Login.jsx
-│ │ │ └── Register.jsx
-│ │ ├── context/
-│ │ │ └── AuthContext.js
-│ │ ├── styles/
-│ │ ├── utils/
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── package.json
-│ └── README.md
-│
-├── package.json
-├── requirements.txt
-└── README.md
-
----
-
 ### Backend
 
 cd aula-gpt-backend
