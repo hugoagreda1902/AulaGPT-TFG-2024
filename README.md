@@ -59,18 +59,18 @@ Database / External Services
 
 ### Backend
 
-cd aula-gpt-backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+- cd aula-gpt-backend
+- python -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+- python manage.py migrate
+- python manage.py runserver
 
 ### Frontend
 
-cd aula-gpt-frontend
-npm install
-npm start
+- cd aula-gpt-frontend
+- npm install
+- npm start
 
 ---
 
