@@ -13,6 +13,12 @@ The project focuses on clean separation between backend and frontend, API-driven
 https://aulagpt.netlify.app/
 ---
 
+## Project score 
+
+7/10
+
+---
+
 ## What It Does
 
 - Provides an AI-powered chat interface for students and teachers  
