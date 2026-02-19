@@ -8,6 +8,11 @@ The project focuses on clean separation between backend and frontend, API-driven
 
 ---
 
+## Link to view
+
+https://aulagpt.netlify.app/
+---
+
 ## What It Does
 
 - Provides an AI-powered chat interface for students and teachers  
@@ -80,3 +85,6 @@ Full-stack academic project with real-world architecture
 Academic project (Final Degree Project – TFG)
 Functional prototype
 Open to future improvements and extensions
+
+
+
